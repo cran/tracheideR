@@ -1,0 +1,14 @@
+5626ff366923c0fb99d61b1126374f50 *DESCRIPTION
+06e1077019e62fac3313915812042d62 *NAMESPACE
+ccbb7c9e8030375d742b8268867e6faf *R/getTrac.R
+6d44c62e5f8ee5c1deef9fb09166060a *R/linearInterp.R
+8f42b377b748874cc37cd803989b0fef *R/ringPlot.R
+a2c9aade2c07b4db220db8890fa598bf *R/tracheider.R
+10aa7ae4ff4bf3a0b36af69b7f3f1d63 *R/xPosition.R
+4d41d0dbdfe6d634853d36ec15d7b5be *data/sw.RData
+6d7c8093550d5eab6e925abbbb8fe31a *data/tch.RData
+177c213f7b33a8eecbd8f298a2c11168 *man/getTrac.Rd
+3ffd6633785e8e55d8399ffd9939a36c *man/ringPlot.Rd
+5821a2450d7aae49e80cd0f297f4345e *man/sw.Rd
+5d9574834f0a62d55838f5315776bc70 *man/tch.Rd
+93d285941d895f51ba497225d55ce34a *man/tracheider.Rd
